@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --color-backround: rgb(157, 156, 155, 0.81);
+}
+.fonts{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1em;
+}
+
